@@ -1,4 +1,4 @@
-package com.example.prac_04
+package com.example.week04_checkboxvisible
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

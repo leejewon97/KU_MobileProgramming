@@ -1,4 +1,4 @@
-package com.example.prac_04
+package com.example.week04_checkboxvisible
 
 import org.junit.Test
 

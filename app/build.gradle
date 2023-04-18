@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.example.prac_04'
+    namespace 'com.example.week04_checkboxvisible'
     compileSdk 33
 
     buildFeatures {

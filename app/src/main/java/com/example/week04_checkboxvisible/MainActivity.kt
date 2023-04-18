@@ -1,11 +1,11 @@
-package com.example.prac_04
+package com.example.week04_checkboxvisible
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.CheckBox
 import android.widget.ImageView
-import com.example.prac_04.databinding.ActivityMainBinding
+import com.example.week04_checkboxvisible.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 //        인형 옷 입히기 (체크박스 체크 시, 해당하는 이미지 덧입히기)
